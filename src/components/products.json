@@ -1,0 +1,142 @@
+[
+    {
+      "name": "iPhone 13 Pro",
+      "description": "The latest flagship smartphone from Apple with a stunning Super Retina XDR display and A15 Bionic chip.",
+      "price": 999.99,
+      "image": "https://images.pexels.com/photos/1381556/pexels-photo-1381556.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Phone"
+    },
+    {
+      "name": "Samsung Galaxy Z Fold 3",
+      "description": "A foldable smartphone with a large AMOLED display that can also function as a tablet.",
+      "price": 1499.99,
+      "image": "https://images.pexels.com/photos/3756879/pexels-photo-3756879.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Phone"
+    },
+    {
+      "name": "Google Pixel 6",
+      "description": "Google's latest Pixel phone with exceptional camera capabilities and a sleek design.",
+      "price": 799.99,
+      "image": "https://images.pexels.com/photos/18186956/pexels-photo-18186956/free-photo-of-man-people-woman-girl.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Phone"
+    },
+    {
+      "name": "Apple Watch Series 7",
+      "description": "A smartwatch with a larger and always-on display, perfect for tracking your fitness and staying connected.",
+      "price": 399.99,
+      "image": "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Fashion"
+    },
+    {
+      "name": "Louis Vuitton Neverfull Tote",
+      "description": "A classic and spacious tote bag from Louis Vuitton, perfect for everyday use.",
+      "price": 1500.00,
+      "image": "https://images.pexels.com/photos/2043590/pexels-photo-2043590.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Fashion"
+    },
+    {
+      "name": "Nike Air Max 270",
+      "description": "Stylish and comfortable sneakers from Nike with a visible Air unit in the sole.",
+      "price": 129.99,
+      "image": "https://images.pexels.com/photos/1456706/pexels-photo-1456706.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Fashion"
+    },
+    {
+      "name": "Estée Lauder Advanced Night Repair Serum",
+      "description": "A highly rated skincare serum that helps to reduce the signs of aging and improve skin texture.",
+      "price": 79.99,
+      "image": "https://images.pexels.com/photos/3762642/pexels-photo-3762642.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Skincare"
+    },
+    {
+      "name": "Neutrogena Hydro Boost Water Gel",
+      "description": "A hydrating and lightweight gel moisturizer that quenches dry skin's thirst.",
+      "price": 14.99,
+      "image": "https://images.pexels.com/photos/3762642/pexels-photo-3762642.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Skincare"
+    },
+    {
+      "name": "The Ordinary Niacinamide 10% + Zinc 1%",
+      "description": "A popular serum that helps to minimize pores and control excess oil production.",
+      "price": 5.90,
+      "image": "https://images.pexels.com/photos/3685530/pexels-photo-3685530.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Skincare"
+    },
+    {
+      "name": "Sony Xperia 1 III",
+      "description": "A high-end smartphone from Sony known for its impressive camera and 4K display.",
+      "price": 1099.99,
+      "image": "https://images.pexels.com/photos/2591485/pexels-photo-2591485.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Phone"
+    },
+    {
+      "name": "Gucci GG Marmont Matelassé Mini Bag",
+      "description": "A luxury mini bag with a signature GG logo from Gucci, perfect for evening outings.",
+      "price": 980.00,
+      "image": "https://images.pexels.com/photos/1374910/pexels-photo-1374910.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Fashion"
+    },
+    {
+      "name": "Adidas Originals Superstar Sneakers",
+      "description": "Iconic sneakers with a classic shell toe design, loved by sneaker enthusiasts.",
+      "price": 79.99,
+      "images": "https://images.pexels.com/photos/18091523/pexels-photo-18091523/free-photo-of-person-fixing-white-sock.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Fashion"
+    },
+    {
+      "name": "CeraVe Hydrating Cleanser",
+      "description": "A gentle facial cleanser that cleans and hydrates the skin without over-drying.",
+      "price": 9.99,
+      "image": "https://images.pexels.com/photos/3321416/pexels-photo-3321416.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Skincare"
+    },
+    {
+      "name": "Fenty Beauty Pro Filt'r Soft Matte Longwear Foundation",
+      "description": "A highly pigmented foundation with a matte finish by Rihanna's beauty brand, Fenty Beauty.",
+      "price": 35.00,
+      "image": "https://images.pexels.com/photos/6663469/pexels-photo-6663469.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Skincare"
+    },
+    {
+      "name": "OnePlus 9 Pro",
+      "description": "A flagship smartphone from OnePlus with a fast refresh rate display and Hasselblad camera system.",
+      "price": 799.00,
+      "image": "https://images.pexels.com/photos/9403824/pexels-photo-9403824.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Phone"
+    },
+    {
+      "name": "Chanel Classic Flap Bag",
+      "description": "A timeless and iconic quilted bag from Chanel, a symbol of luxury and sophistication.",
+      "price": 6000.00,
+      "image": "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Fashion"
+    },
+    {
+      "name": "Converse Chuck Taylor All Star High Top Sneakers",
+      "description": "Classic high-top sneakers from Converse in various colors for a timeless look.",
+      "price": 55.00,
+      "image": "https://images.pexels.com/photos/3596282/pexels-photo-3596282.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Fashion"
+    },
+    {
+      "name": "La Roche-Posay Anthelios Melt-in Milk Sunscreen SPF 60",
+      "description": "A broad-spectrum sunscreen with high SPF protection and a lightweight, non-greasy formula.",
+      "price": 36.99,
+      "image": "https://images.pexels.com/photos/3685523/pexels-photo-3685523.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Skincare"
+    },
+    {
+      "name": "Xiaomi Mi 11",
+      "description": "A feature-packed smartphone from Xiaomi with a powerful Snapdragon processor and a vibrant display.",
+      "price": 699.00,
+      "image": "https://images.pexels.com/photos/16079514/pexels-photo-16079514/free-photo-of-a-smartphone-lying-on-the-ground.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Phone"
+    },
+    {
+      "name": "Prada Saffiano Leather Wallet",
+      "description": "A luxurious leather wallet from Prada with a sleek and durable Saffiano texture.",
+      "price": 450.00,
+      "image": "https://images.pexels.com/photos/910122/pexels-photo-910122.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "category": "Fashion"
+    }
+  ]
